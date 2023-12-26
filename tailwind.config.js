@@ -10,7 +10,9 @@ module.exports = {
       'process-cyan': '01baef',
       'process-cyan-light': '20cefe',
       'indigo-dye': '0b4f6c',
-      'indigo-dye-light': '0f6c95'
+      'indigo-dye-light': '0f6c95',
+      'engineering-orange': 'b80c09',
+      'engineering-orange-light': 'f41915'
     },
     extend: {},
   },
